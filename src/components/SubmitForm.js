@@ -86,6 +86,7 @@ const SubmitForm = () => {
 
         <Container>
 
+
             <Input1 placeholder='email' />
             <Input2 placeholder='password' />
             <Forgot>Forgot Password?</Forgot>
