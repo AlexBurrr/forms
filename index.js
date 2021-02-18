@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SubmitForm from './components/SubmitForm';
+import SubmitForm from './SubmitForm';
 
 
 
